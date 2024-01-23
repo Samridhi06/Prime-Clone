@@ -19,7 +19,7 @@ JavaScript: Implemented for dynamic and interactive features.
 Clone the repository:
 --bash
 --Copy code
---git clone https://github.com/your-username/amazon-prime-clone.git
+--git clone [https://github.com/your-username/amazon-prime-clone](https://github.com/Samridhi06/Prime-Clone/).git
 --Open the index.html file in your web browser.
 --Explore the Amazon Prime clone and enjoy the user interface.
 
